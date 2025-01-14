@@ -1,0 +1,2 @@
+# PowerShell script placeholder for configuring the EC2 instance
+Write-Output "Setting up the application..."
